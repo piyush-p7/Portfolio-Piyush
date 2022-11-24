@@ -11,7 +11,7 @@ Portfolio website build using HTML5, CSS3, JavaScript and jQuery.
 Particle.js, Typed.js, Tilt.js, Scroll Reveal, Tawk.to, Font Awesome and JSON
 
 ## 📌 Sneak Peek of Main Page 🙈 :
-[!Link](https://portfolio-piyush.piyush-vit.repl.co/)
+[[!Link](https://thumbs.dreamstime.com/b/external-link-icon-arrow-box-open-new-window-flat-icon-stock-vector-illustration-isolated-external-link-icon-206568527.jpg)](https://portfolio-piyush.piyush-vit.repl.co/)
 
 
 <h2>📬 Contact</h2>
