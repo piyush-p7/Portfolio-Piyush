@@ -11,7 +11,7 @@ Portfolio website build using HTML5, CSS3, JavaScript and jQuery.
 Particle.js, Typed.js, Tilt.js, Scroll Reveal, Tawk.to, Font Awesome and JSON
 
 ## 📌 Sneak Peek of Main Page 🙈 :
-[[!Link](https://thumbs.dreamstime.com/b/external-link-icon-arrow-box-open-new-window-flat-icon-stock-vector-illustration-isolated-external-link-icon-206568527.jpg)](https://portfolio-piyush.piyush-vit.repl.co/)
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://portfolio-piyush.piyush-vit.repl.co/)
 
 
 <h2>📬 Contact</h2>
@@ -22,6 +22,3 @@ If you want to contact me, you can reach me through below handles.
 &nbsp;&nbsp;<a href="https://www.linkedin.com/in/piyush-pandita-37898b220/"><img src="https://www.felberpr.com/wp-content/uploads/linkedin-logo.png" width="30"></img></a>
 
 © 2022 Piyush Pandita
-
-
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
